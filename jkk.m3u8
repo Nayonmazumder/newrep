@@ -549,7 +549,7 @@ http://209.126.120.153/hls/gaanbangla.m3u8
 http://103.70.140.27:8080/hls/gtv.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi TV(backup)
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
+https://live.sonyplex.com/sonyplex/GaziTv.stream/chunklist_w7572409.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/120px-ATN_Bangla.svg.png" group-title="Bangladeshi",ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
