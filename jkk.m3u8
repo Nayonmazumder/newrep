@@ -351,7 +351,7 @@ http://freeiptv.thunderbd.com:25461/live/free/roarzone/44.m3u8
 http://103.81.104.118/hls/stream5.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScience(src07).in(m3u4u)" tvg-name="Discovery SCI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
-http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+https://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="discovery hindi" tvg-logo="https://i.dlpng.com/static/png/6901604_preview.png" group-title="Infotainment",Discovery Hindi 
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
