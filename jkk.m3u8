@@ -453,7 +453,7 @@ http://103.205.133.19/hls/chss2.m3u8
 http://172.16.29.28/hls/sports3.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-4.png" group-title="Sports",Star Sports 1 HD 
-http://otv.ftpbd.net/streams/104/index.m3u8
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-4.png" group-title="Sports",Star Sports 1 HD link3
 http://103.153.175.254:8080/hls/stream15.m3u8
