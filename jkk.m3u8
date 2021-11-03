@@ -26,7 +26,7 @@ http://tvflixtn.ddns.net/hls/zeebanglahd.m3u8
 http://103.153.175.254:8080/hls/stream30.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Shows & Series",Zee Bangla SD (backup)
-http://209.126.120.153/hls/zeebanglahd.m3u8
+http://103.109.56.116/live/skyfeed1004/index.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Shows & Series",Zee Bangla SD (INTER)
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/55319
