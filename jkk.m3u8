@@ -546,7 +546,7 @@ http://103.159.4.46:8080/GAN-BANGLA/tracks-v1a1/mono.m3u8
 http://209.126.120.153/hls/gaanbangla.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi TV
-http://103.147.182.221:8080/ABD-GTV/tracks-v1a1/mono.m3u8
+http://103.70.140.27:8080/hls/gtv.m3u8
 
 #EXTINF:0 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi TV(backup)
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
