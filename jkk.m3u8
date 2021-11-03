@@ -155,7 +155,7 @@ http://ahaohoo.com/.1/tv1/play.php?id=2688&e=.m3u8
 http://ahaohoo.com/.1/tv1/play.php?id=2692&e=.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Indian Hindi",Sony Sab(link2)
-http://ahaohoo.com/.1/tv1/play.php?id=2693&e=.m3u8
+https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="http://tv.thunderbd.com/assets/images/sonysab.png" group-title="Indian Hindi",Sony Sab HD
 http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/1907
